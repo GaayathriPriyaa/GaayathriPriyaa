@@ -25,7 +25,12 @@ I'm a certified Data Analyst with a background in Microbiology and a keen intere
  
 
 *Libraries:*  
-Pandas | NumPy | Matplotlib | Seaborn | SciPy | Scikit-Learn  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=flat-square&logo=python&logoColor=white)  
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 *Core Competencies:*  
 - Data Cleaning & Preparation  
