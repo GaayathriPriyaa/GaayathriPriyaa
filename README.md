@@ -67,7 +67,8 @@ Ethiraj College for Women | Aug 2021 – Apr 2024
 ## 📜 Certifications
 
 - Data Science with Machine Learning and Generative AI – NIIT  
-- Advanced Excel – Simplilearn  
+- Advanced Excel – Simplilearn
+- Learning Python -  Infosys SpringBoard 
 
 ---
 
