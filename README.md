@@ -26,6 +26,7 @@
 - 🧮 **SQL Optimization Analysis** — Query tuning with large datasets  
 - 🚗 **Automotive Data Trends** — Python visualizations for customer patterns  
 - 🤖 **Employee Absenteeism Prediction** — Predictive modeling using ML
+-   **Antibiotic-Resistance-Data-Analysis** _ Python and logistic regression
 
 ---
 
